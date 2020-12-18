@@ -1,3 +1,6 @@
+// Develop a Java application using packages to implement the following currency converter – Dollar to Indian Rupees, Euro to Indian Rupees, and vice versa.
+
+
 import java.util.Scanner;
 
 public class CurrencyINR{
