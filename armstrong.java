@@ -1,3 +1,8 @@
+//Write a java program that prints the Armstrong number
+
+
+
+
 class ArmstrongExample{
     public static void armstrong(String[] args)  {
         int c=0,a,temp;
@@ -15,3 +20,4 @@ class ArmstrongExample{
             System.out.println("Not armstrong number");
     }
 }
+
