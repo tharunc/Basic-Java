@@ -1,5 +1,10 @@
+//11.	Write a program to perform string operations using ArrayList. Write functions for the following 
+// a. Append – add at end
+// b.List all string starts with given letter
+ 
+
 import java.util.ArrayList;
-import java.util.Collections;     //INSERTION
+import java.util.Collections;     
 import java.util.List;
 import java.util.Scanner;
     public class ArrSt
