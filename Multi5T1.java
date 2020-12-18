@@ -1,3 +1,5 @@
+//22.	Write a Java program that implements multithreading concepts using Runnable interface . The threads should print numbers from 5 to 1
+
 class ThreadA extends Thread{
     public void run(){
         for(int i = 5; i >=1; i--){
