@@ -1,3 +1,5 @@
+//32.	Write a Java Program for Stack Adt Using Interface
+
 import java.io.*;
 interface Mystack
 {

@@ -1,3 +1,5 @@
+//Write a java program that print the string in reverse order.
+
 import java.util.*;
 public class StringReverse{
     public static void main(String args[]) {

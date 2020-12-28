@@ -1,3 +1,5 @@
+//1.	Create a Java application to find the area of different shapes using abstract class. Use the abstract class Shape that include two integers and an empty method named printArea(). Construct the classes Rectangle and Circle inherited from the class Shape. The Derived classes should include only the method printArea() that print the area of the given shape.
+
 import java.util.Scanner;
 abstract class shape
 {

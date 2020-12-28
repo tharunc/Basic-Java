@@ -1,3 +1,7 @@
+//Develop a java application with Employee class with Emp_name, Emp_id, Address, Mail_id, Mobile_no as members, Inheric the classes, Programmer, Assistant Professor, Associate Professor and Professor from employee class. Add Basic pay as the member of
+//all the inherited classes with 97% of Basic Pay as DA, 10% of Basic Pay as HRA, 12 % Basic Pay as PF, 0.1% of Basic Pay for staff club fund. Generate pay slips for the employees with their gross and net salary.
+
+
 import java.util.Scanner;
 class employee
 {

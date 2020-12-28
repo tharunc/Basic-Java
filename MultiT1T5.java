@@ -1,3 +1,5 @@
+//14.	Write a Java program that implements multithreading concepts using Thread Class.  The threads should print numbers from 1 to 5
+
 class SharedPrinter{
     int number = 1;
     int numOfThreads;

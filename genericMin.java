@@ -1,3 +1,5 @@
+//10.	Write a java program to find the minimum value from the given type of elements using a generic function.
+
 public class genericMin{
 
     public static <T extends Comparable<T>> T min(T... elements){
@@ -29,4 +31,3 @@ public class genericMin{
     }
 
 }
-

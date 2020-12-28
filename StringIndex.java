@@ -1,3 +1,7 @@
+//	Write a Java program for handling the following exception
+//  StringIndexOutOfBound Exception
+
+
 class StringIndex
 {
     public static void main(String args[])

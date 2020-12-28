@@ -1,3 +1,5 @@
+//10.	Write a java program to find the maximum value from the given type of elements using a generic function.
+
  public class genericMax
 {
 
