@@ -12,7 +12,7 @@ This Repository contains a viable list of Java projects which you can use for Co
 
  :fire: Tharun.C
 
- [![](https://github.com/muthuannamalai12.png?size=43)](https://github.com/muthuannamalai12)
+ [![](https://github.com/muthuannamalai12.png?size=100)](https://github.com/muthuannamalai12)
 
  :fire: Muthu Annamalai.V
 
